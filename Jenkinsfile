@@ -17,7 +17,6 @@ node('php'){
             'config cache': {
                 echo 'Era so pra instalar um jenkins'
                 }
-            }
         )
     }
     stage('Docker Build') {
